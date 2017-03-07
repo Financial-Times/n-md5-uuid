@@ -1,3 +1,5 @@
+// adapted from https://github.com/scravy/uuid-1345
+
 var crypto = require('crypto');
 
 // lookup table byte to hex
