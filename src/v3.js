@@ -43,7 +43,6 @@ function uuidNamed(hashFunc, version, opts) {
             result = new UUID(buffer);
             break;
         default:
-            console.log('default encoding')
 			result = byte2hex[buffer[0]] + byte2hex[buffer[1]] +
                      byte2hex[buffer[2]] + byte2hex[buffer[3]] + '-' +
                      byte2hex[buffer[4]] + byte2hex[buffer[5]] + '-' +
