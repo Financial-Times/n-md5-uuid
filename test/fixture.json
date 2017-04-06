@@ -1,0 +1,1015 @@
+{
+	"took": 1351,
+	"timed_out": false,
+	"_shards": {
+		"total": 1,
+		"successful": 1,
+		"failed": 0
+	},
+	"hits": {
+		"total": 10813,
+		"max_score": 8.504001,
+		"hits": [
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "564b8be3-0775-3531-b87b-f6da2272f642",
+				"_score": 8.504001,
+				"_source": {
+					"webUrl": "http://video.ft.com/834961745001",
+					"id": "564b8be3-0775-3531-b87b-f6da2272f642"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ee797a31-45d4-32d9-b869-2ed3d4331ab5",
+				"_score": 8.503234,
+				"_source": {
+					"webUrl": "http://video.ft.com/62436062001",
+					"id": "ee797a31-45d4-32d9-b869-2ed3d4331ab5"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "af914ab4-0131-3df8-8520-8f503e772b1c",
+				"_score": 8.502948,
+				"_source": {
+					"webUrl": "http://video.ft.com/5351750755001",
+					"id": "af914ab4-0131-3df8-8520-8f503e772b1c"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "a30d4395-4e94-3ac7-8c06-a3d2f211bad9",
+				"_score": 8.50263,
+				"_source": {
+					"webUrl": "http://video.ft.com/4715111476001",
+					"id": "a30d4395-4e94-3ac7-8c06-a3d2f211bad9"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "4f49bd74-a393-3928-8d92-24c885af8f7f",
+				"_score": 8.502554,
+				"_source": {
+					"webUrl": "http://video.ft.com/1813539259001",
+					"id": "4f49bd74-a393-3928-8d92-24c885af8f7f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "d8346186-ee50-31af-a5b0-526e49e97e8f",
+				"_score": 8.501805,
+				"_source": {
+					"webUrl": "http://video.ft.com/4786318405001",
+					"id": "d8346186-ee50-31af-a5b0-526e49e97e8f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "86cc9eaf-5e88-3dd2-b8d2-2fe3a83e28c4",
+				"_score": 8.501723,
+				"_source": {
+					"webUrl": "http://video.ft.com/62453068001",
+					"id": "86cc9eaf-5e88-3dd2-b8d2-2fe3a83e28c4"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "48aa8e82-ea1b-37d5-a50d-2a38e3780e73",
+				"_score": 8.500413,
+				"_source": {
+					"webUrl": "http://video.ft.com/62576116001",
+					"id": "48aa8e82-ea1b-37d5-a50d-2a38e3780e73"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "4af682b6-b703-3490-98cc-ea1cb4078960",
+				"_score": 8.500038,
+				"_source": {
+					"webUrl": "http://video.ft.com/62347048001",
+					"id": "4af682b6-b703-3490-98cc-ea1cb4078960"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "05a8ccea-5437-32b8-b8c1-f821a6b554c9",
+				"_score": 8.499715,
+				"_source": {
+					"webUrl": "http://video.ft.com/4552766906001",
+					"id": "05a8ccea-5437-32b8-b8c1-f821a6b554c9"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "c19ad5d9-322e-390c-8b21-ca622f647d5f",
+				"_score": 8.498042,
+				"_source": {
+					"webUrl": "http://video.ft.com/4109061343001",
+					"id": "c19ad5d9-322e-390c-8b21-ca622f647d5f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "b02d5000-36e8-35ff-80f1-a5551d9c6b58",
+				"_score": 8.497174,
+				"_source": {
+					"webUrl": "http://video.ft.com/5184616744001",
+					"id": "b02d5000-36e8-35ff-80f1-a5551d9c6b58"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "52930707-1a96-3eea-8dc4-550dea59ede4",
+				"_score": 8.494569,
+				"_source": {
+					"webUrl": "http://video.ft.com/945378278001",
+					"id": "52930707-1a96-3eea-8dc4-550dea59ede4"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "74ac149d-5c45-3dcd-97f9-b625bf78decd",
+				"_score": 8.494332,
+				"_source": {
+					"webUrl": "http://video.ft.com/3813595648001",
+					"id": "74ac149d-5c45-3dcd-97f9-b625bf78decd"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "776d7f02-a604-385f-8825-74a3256e015c",
+				"_score": 8.494017,
+				"_source": {
+					"webUrl": "http://video.ft.com/900173415001",
+					"id": "776d7f02-a604-385f-8825-74a3256e015c"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "3d15e638-ac0a-3d71-86ce-dcde471cfc55",
+				"_score": 8.492782,
+				"_source": {
+					"webUrl": "http://video.ft.com/1815719664001",
+					"id": "3d15e638-ac0a-3d71-86ce-dcde471cfc55"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "0c8d156c-4965-3cf3-8159-912de9f315cb",
+				"_score": 8.491,
+				"_source": {
+					"webUrl": "http://video.ft.com/82089413001",
+					"id": "0c8d156c-4965-3cf3-8159-912de9f315cb"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "3613297b-d742-3d23-a24f-6b7ad8e7988f",
+				"_score": 8.490032,
+				"_source": {
+					"webUrl": "http://video.ft.com/4151670218001",
+					"id": "3613297b-d742-3d23-a24f-6b7ad8e7988f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "d1576a7b-bd26-3e2b-bbf6-263b2ae84fdb",
+				"_score": 8.489635,
+				"_source": {
+					"webUrl": "http://video.ft.com/62339557001",
+					"id": "d1576a7b-bd26-3e2b-bbf6-263b2ae84fdb"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "32d9e641-3edd-364a-847a-dca09c6e97df",
+				"_score": 8.489399,
+				"_source": {
+					"webUrl": "http://video.ft.com/3122586200001",
+					"id": "32d9e641-3edd-364a-847a-dca09c6e97df"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "01721e94-027a-3beb-a95d-9932556eaf20",
+				"_score": 8.4885845,
+				"_source": {
+					"webUrl": "http://video.ft.com/4632836655001",
+					"id": "01721e94-027a-3beb-a95d-9932556eaf20"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ab880ca2-2c58-3580-bc5d-94cbb0aa727b",
+				"_score": 8.487339,
+				"_source": {
+					"webUrl": "http://video.ft.com/82267301001",
+					"id": "ab880ca2-2c58-3580-bc5d-94cbb0aa727b"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "dd35f6d9-0f9e-3427-8853-d399103d3ac3",
+				"_score": 8.486625,
+				"_source": {
+					"webUrl": "http://video.ft.com/4879116827001",
+					"id": "dd35f6d9-0f9e-3427-8853-d399103d3ac3"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "2669ca64-8486-3a9d-b8e0-332544effc85",
+				"_score": 8.485929,
+				"_source": {
+					"webUrl": "http://video.ft.com/5291425764001",
+					"id": "2669ca64-8486-3a9d-b8e0-332544effc85"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "49e764e7-c36f-338b-97e0-e39ebeb2d650",
+				"_score": 8.485647,
+				"_source": {
+					"webUrl": "http://video.ft.com/619322434001",
+					"id": "49e764e7-c36f-338b-97e0-e39ebeb2d650"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "caadf072-d3a7-3885-88e3-6d627cb913f5",
+				"_score": 8.485593,
+				"_source": {
+					"webUrl": "http://video.ft.com/1696214548001",
+					"id": "caadf072-d3a7-3885-88e3-6d627cb913f5"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "7ee68ff0-7590-385d-bee4-76cc38422c12",
+				"_score": 8.485078,
+				"_source": {
+					"webUrl": "http://video.ft.com/4646784216001",
+					"id": "7ee68ff0-7590-385d-bee4-76cc38422c12"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "765b0451-1bb2-38ea-a5c3-7f6d68ebf023",
+				"_score": 8.484116,
+				"_source": {
+					"webUrl": "http://video.ft.com/4312979360001",
+					"id": "765b0451-1bb2-38ea-a5c3-7f6d68ebf023"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "b7270444-c2dd-3167-b824-3776c5ca0983",
+				"_score": 8.4829855,
+				"_source": {
+					"webUrl": "http://video.ft.com/2396840325001",
+					"id": "b7270444-c2dd-3167-b824-3776c5ca0983"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "2c5d88fe-c365-300e-becb-38c3d0e94bcc",
+				"_score": 8.481891,
+				"_source": {
+					"webUrl": "http://video.ft.com/4877491872001",
+					"id": "2c5d88fe-c365-300e-becb-38c3d0e94bcc"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "3e01708f-9702-3971-a48f-18472d46d015",
+				"_score": 8.4818535,
+				"_source": {
+					"webUrl": "http://video.ft.com/73501801001",
+					"id": "3e01708f-9702-3971-a48f-18472d46d015"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ee0f931a-0125-3252-91fa-2a63b75a6f45",
+				"_score": 8.481646,
+				"_source": {
+					"webUrl": "http://video.ft.com/5212858226001",
+					"id": "ee0f931a-0125-3252-91fa-2a63b75a6f45"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "952fb64a-42b7-3c14-8693-2fb978661b11",
+				"_score": 8.480699,
+				"_source": {
+					"webUrl": "http://video.ft.com/1799210017001",
+					"id": "952fb64a-42b7-3c14-8693-2fb978661b11"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "5cf9bc92-62ed-3d26-82f9-1ccb9beaeeaa",
+				"_score": 8.480239,
+				"_source": {
+					"webUrl": "http://video.ft.com/63157430001",
+					"id": "5cf9bc92-62ed-3d26-82f9-1ccb9beaeeaa"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "6a2b7147-9554-338b-b44c-91a002efb046",
+				"_score": 8.480097,
+				"_source": {
+					"webUrl": "http://video.ft.com/62064001001",
+					"id": "6a2b7147-9554-338b-b44c-91a002efb046"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "34e73861-bbe2-383d-a4b8-090e7bf10d64",
+				"_score": 8.479716,
+				"_source": {
+					"webUrl": "http://video.ft.com/76983588001",
+					"id": "34e73861-bbe2-383d-a4b8-090e7bf10d64"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "60b4aa7d-2ab6-3124-87fe-d082c162c079",
+				"_score": 8.479658,
+				"_source": {
+					"webUrl": "http://video.ft.com/63148618001",
+					"id": "60b4aa7d-2ab6-3124-87fe-d082c162c079"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "3876d197-a4ab-3eb3-b4c2-9f2e123ccd7f",
+				"_score": 8.4795475,
+				"_source": {
+					"webUrl": "http://video.ft.com/5335874678001",
+					"id": "3876d197-a4ab-3eb3-b4c2-9f2e123ccd7f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "e47a43b9-b8d2-3658-a029-a8a15ff311c4",
+				"_score": 8.47884,
+				"_source": {
+					"webUrl": "http://video.ft.com/5128095756001",
+					"id": "e47a43b9-b8d2-3658-a029-a8a15ff311c4"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ba94ae86-d082-3152-92c1-e9f0414b605e",
+				"_score": 8.477557,
+				"_source": {
+					"webUrl": "http://video.ft.com/5344702355001",
+					"id": "ba94ae86-d082-3152-92c1-e9f0414b605e"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "84e4aa55-2ffa-3e4c-b40f-c723146b2daa",
+				"_score": 8.476429,
+				"_source": {
+					"webUrl": "http://video.ft.com/922707670001",
+					"id": "84e4aa55-2ffa-3e4c-b40f-c723146b2daa"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "3cabc635-60a1-3bfe-9ae5-2cf05b82d83a",
+				"_score": 8.475774,
+				"_source": {
+					"webUrl": "http://video.ft.com/2837110219001",
+					"id": "3cabc635-60a1-3bfe-9ae5-2cf05b82d83a"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "c269a03a-9ce6-374b-9e4a-92f902c09860",
+				"_score": 8.475496,
+				"_source": {
+					"webUrl": "http://video.ft.com/3921551529001",
+					"id": "c269a03a-9ce6-374b-9e4a-92f902c09860"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "510658a0-5bbf-3069-a6fb-daef1c51596b",
+				"_score": 8.475016,
+				"_source": {
+					"webUrl": "http://video.ft.com/4780107282001",
+					"id": "510658a0-5bbf-3069-a6fb-daef1c51596b"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "edc37b49-6e7b-3876-aea5-501f01ef3017",
+				"_score": 8.472799,
+				"_source": {
+					"webUrl": "http://video.ft.com/5109368285001",
+					"id": "edc37b49-6e7b-3876-aea5-501f01ef3017"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "cbaf9453-6ce0-38c3-9ae3-00b160507709",
+				"_score": 8.472604,
+				"_source": {
+					"webUrl": "http://video.ft.com/73504284001",
+					"id": "cbaf9453-6ce0-38c3-9ae3-00b160507709"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "8d0efd46-d576-3477-af85-3a9437f9e219",
+				"_score": 8.472372,
+				"_source": {
+					"webUrl": "http://video.ft.com/5339154187001",
+					"id": "8d0efd46-d576-3477-af85-3a9437f9e219"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "da692984-5e9d-3eee-ba3c-911caa36b24d",
+				"_score": 8.47053,
+				"_source": {
+					"webUrl": "http://video.ft.com/3308145489001",
+					"id": "da692984-5e9d-3eee-ba3c-911caa36b24d"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "8910b1a3-a387-337c-9794-31923697532c",
+				"_score": 8.470144,
+				"_source": {
+					"webUrl": "http://video.ft.com/3096438440001",
+					"id": "8910b1a3-a387-337c-9794-31923697532c"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "4093a076-d963-3f71-ac52-dca11add9663",
+				"_score": 8.469971,
+				"_source": {
+					"webUrl": "http://video.ft.com/5110040298001",
+					"id": "4093a076-d963-3f71-ac52-dca11add9663"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "b3078550-080a-3e6d-b8ec-67b0383e42b6",
+				"_score": 8.469934,
+				"_source": {
+					"webUrl": "http://video.ft.com/3827151922001",
+					"id": "b3078550-080a-3e6d-b8ec-67b0383e42b6"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "4b37a26c-a07c-3b5a-8c94-b520ddc5aa2f",
+				"_score": 8.468397,
+				"_source": {
+					"webUrl": "http://video.ft.com/62569762001",
+					"id": "4b37a26c-a07c-3b5a-8c94-b520ddc5aa2f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ac8778c5-9346-31f5-ada4-7d075eeb24b7",
+				"_score": 8.46827,
+				"_source": {
+					"webUrl": "http://video.ft.com/62995063001",
+					"id": "ac8778c5-9346-31f5-ada4-7d075eeb24b7"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "a51a7b55-fe32-3263-9d34-f8fa27142d74",
+				"_score": 8.466935,
+				"_source": {
+					"webUrl": "http://video.ft.com/62344916001",
+					"id": "a51a7b55-fe32-3263-9d34-f8fa27142d74"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "2aa74fe0-5e73-3089-9fbe-fcca54a2e0d7",
+				"_score": 8.465401,
+				"_source": {
+					"webUrl": "http://video.ft.com/1873229629001",
+					"id": "2aa74fe0-5e73-3089-9fbe-fcca54a2e0d7"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "17a00044-792d-35a6-a5d2-ca6be8515bc9",
+				"_score": 8.465276,
+				"_source": {
+					"webUrl": "http://video.ft.com/62692684001",
+					"id": "17a00044-792d-35a6-a5d2-ca6be8515bc9"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "09a378cf-2db3-36cc-a816-c71d684e5128",
+				"_score": 8.463131,
+				"_source": {
+					"webUrl": "http://video.ft.com/82283633001",
+					"id": "09a378cf-2db3-36cc-a816-c71d684e5128"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "887448d1-0d4f-3fb0-b4bf-bcd92a23be6b",
+				"_score": 8.462581,
+				"_source": {
+					"webUrl": "http://video.ft.com/3818096013001",
+					"id": "887448d1-0d4f-3fb0-b4bf-bcd92a23be6b"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "442b3680-5f80-3382-b5a2-0228b0b1cf97",
+				"_score": 8.461519,
+				"_source": {
+					"webUrl": "http://video.ft.com/81597147001",
+					"id": "442b3680-5f80-3382-b5a2-0228b0b1cf97"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "726b857a-ef08-3244-859d-178763a8c879",
+				"_score": 8.461171,
+				"_source": {
+					"webUrl": "http://video.ft.com/5169912738001",
+					"id": "726b857a-ef08-3244-859d-178763a8c879"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "06e9356c-708f-36e7-a744-f67a105f1458",
+				"_score": 8.459884,
+				"_source": {
+					"webUrl": "http://video.ft.com/5068486249001",
+					"id": "06e9356c-708f-36e7-a744-f67a105f1458"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "726b813b-5327-39a3-8dcd-391702e816f0",
+				"_score": 8.459391,
+				"_source": {
+					"webUrl": "http://video.ft.com/4094087799001",
+					"id": "726b813b-5327-39a3-8dcd-391702e816f0"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "21e6347d-dd04-3bf1-bc22-4cdc023264d0",
+				"_score": 8.459344,
+				"_source": {
+					"webUrl": "http://video.ft.com/971262728001",
+					"id": "21e6347d-dd04-3bf1-bc22-4cdc023264d0"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "e4d97ee9-505a-398d-83c1-85d4b4cd12b3",
+				"_score": 8.458901,
+				"_source": {
+					"webUrl": "http://video.ft.com/4332148848001",
+					"id": "e4d97ee9-505a-398d-83c1-85d4b4cd12b3"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "86010606-2d6b-3c95-bd18-5f788d002113",
+				"_score": 8.45889,
+				"_source": {
+					"webUrl": "http://video.ft.com/62345243001",
+					"id": "86010606-2d6b-3c95-bd18-5f788d002113"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ccfdb029-8cf7-3968-b65d-35b8abfe9c7b",
+				"_score": 8.458778,
+				"_source": {
+					"webUrl": "http://video.ft.com/5371921775001",
+					"id": "ccfdb029-8cf7-3968-b65d-35b8abfe9c7b"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "d48a5b1e-9989-384e-89f8-6be10703bacd",
+				"_score": 8.458696,
+				"_source": {
+					"webUrl": "http://video.ft.com/4242272909001",
+					"id": "d48a5b1e-9989-384e-89f8-6be10703bacd"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "f2ad168d-8498-3b6a-80c7-ff021314a802",
+				"_score": 8.457251,
+				"_source": {
+					"webUrl": "http://video.ft.com/2042027156001",
+					"id": "f2ad168d-8498-3b6a-80c7-ff021314a802"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "2b0f0bcc-6d6e-3d4a-bf6d-a9ed77efb959",
+				"_score": 8.457175,
+				"_source": {
+					"webUrl": "http://video.ft.com/4657020936001",
+					"id": "2b0f0bcc-6d6e-3d4a-bf6d-a9ed77efb959"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "bcbfb8ed-ac8b-3d42-8b54-03561e39b9f6",
+				"_score": 8.456073,
+				"_source": {
+					"webUrl": "http://video.ft.com/4734867703001",
+					"id": "bcbfb8ed-ac8b-3d42-8b54-03561e39b9f6"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "7af9a158-b9b5-36a4-9a6b-6db2abc26b56",
+				"_score": 8.4552965,
+				"_source": {
+					"webUrl": "http://video.ft.com/73500420001",
+					"id": "7af9a158-b9b5-36a4-9a6b-6db2abc26b56"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "4a064dfc-a918-3e53-8d59-a0cd89fb8c6f",
+				"_score": 8.454958,
+				"_source": {
+					"webUrl": "http://video.ft.com/3127436212001",
+					"id": "4a064dfc-a918-3e53-8d59-a0cd89fb8c6f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "f8f58ea8-a135-3f2f-846b-ae3a4c49c666",
+				"_score": 8.454916,
+				"_source": {
+					"webUrl": "http://video.ft.com/4483931165001",
+					"id": "f8f58ea8-a135-3f2f-846b-ae3a4c49c666"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "9bce4e2b-bdbc-3902-b193-93dee9b1446f",
+				"_score": 8.454829,
+				"_source": {
+					"webUrl": "http://video.ft.com/5091057445001",
+					"id": "9bce4e2b-bdbc-3902-b193-93dee9b1446f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "88e63c7e-7b33-36bb-91e0-b4eee4f44dda",
+				"_score": 8.453462,
+				"_source": {
+					"webUrl": "http://video.ft.com/62183399001",
+					"id": "88e63c7e-7b33-36bb-91e0-b4eee4f44dda"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "69295ee1-eb46-3e54-a7ee-aa9769ed6346",
+				"_score": 8.453202,
+				"_source": {
+					"webUrl": "http://video.ft.com/63071760001",
+					"id": "69295ee1-eb46-3e54-a7ee-aa9769ed6346"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "556b263b-c643-3b1a-a00d-1389efc044f5",
+				"_score": 8.452756,
+				"_source": {
+					"webUrl": "http://video.ft.com/762058226001",
+					"id": "556b263b-c643-3b1a-a00d-1389efc044f5"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "47839982-b373-3127-b13e-eefc6e18d93d",
+				"_score": 8.452221,
+				"_source": {
+					"webUrl": "http://video.ft.com/808300768001",
+					"id": "47839982-b373-3127-b13e-eefc6e18d93d"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "37e03559-774e-34f4-b720-09b46143f3e1",
+				"_score": 8.450265,
+				"_source": {
+					"webUrl": "http://video.ft.com/63071770001",
+					"id": "37e03559-774e-34f4-b720-09b46143f3e1"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "cff8f682-598c-3ceb-957a-a33deed77af3",
+				"_score": 8.450246,
+				"_source": {
+					"webUrl": "http://video.ft.com/1762609189001",
+					"id": "cff8f682-598c-3ceb-957a-a33deed77af3"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "094f77b6-8aa3-3d61-b960-45c62840d4da",
+				"_score": 8.4498205,
+				"_source": {
+					"webUrl": "http://video.ft.com/79128762001",
+					"id": "094f77b6-8aa3-3d61-b960-45c62840d4da"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "1c33ea08-2478-3544-ae0a-0b8cb9712267",
+				"_score": 8.449433,
+				"_source": {
+					"webUrl": "http://video.ft.com/62449214001",
+					"id": "1c33ea08-2478-3544-ae0a-0b8cb9712267"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "a2038847-36d4-363b-bc0c-f32d5594eb7f",
+				"_score": 8.449394,
+				"_source": {
+					"webUrl": "http://video.ft.com/5249533585001",
+					"id": "a2038847-36d4-363b-bc0c-f32d5594eb7f"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "8cd643a0-5f77-3d85-a0ce-6b4ed7a90809",
+				"_score": 8.448976,
+				"_source": {
+					"webUrl": "http://video.ft.com/5216784485001",
+					"id": "8cd643a0-5f77-3d85-a0ce-6b4ed7a90809"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "6da19d9a-5d7b-3b65-9c0b-874f29133e94",
+				"_score": 8.446911,
+				"_source": {
+					"webUrl": "http://video.ft.com/2514486247001",
+					"id": "6da19d9a-5d7b-3b65-9c0b-874f29133e94"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "3ec5e62c-0a38-3f8c-ae0a-cb0b3d8fd961",
+				"_score": 8.445382,
+				"_source": {
+					"webUrl": "http://video.ft.com/909527826001",
+					"id": "3ec5e62c-0a38-3f8c-ae0a-cb0b3d8fd961"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "99b09a27-36e7-3988-9f84-c9515191cf9b",
+				"_score": 8.44516,
+				"_source": {
+					"webUrl": "http://video.ft.com/62567575001",
+					"id": "99b09a27-36e7-3988-9f84-c9515191cf9b"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "52f14aeb-3841-3961-81b0-43ace7fc34fd",
+				"_score": 8.445143,
+				"_source": {
+					"webUrl": "http://video.ft.com/4661363966001",
+					"id": "52f14aeb-3841-3961-81b0-43ace7fc34fd"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "978ecf40-93bb-3627-a0c9-043cf693479a",
+				"_score": 8.444899,
+				"_source": {
+					"webUrl": "http://video.ft.com/4208847200001",
+					"id": "978ecf40-93bb-3627-a0c9-043cf693479a"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "da91aace-fd64-3631-bb25-98b00a86a772",
+				"_score": 8.442201,
+				"_source": {
+					"webUrl": "http://video.ft.com/62339609001",
+					"id": "da91aace-fd64-3631-bb25-98b00a86a772"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "4152aee7-c36d-32a4-8152-6cde8e8eeeec",
+				"_score": 8.44213,
+				"_source": {
+					"webUrl": "http://video.ft.com/4122361810001",
+					"id": "4152aee7-c36d-32a4-8152-6cde8e8eeeec"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "ddac5faa-5641-3bd9-a2bc-f94799238a24",
+				"_score": 8.44178,
+				"_source": {
+					"webUrl": "http://video.ft.com/62339365001",
+					"id": "ddac5faa-5641-3bd9-a2bc-f94799238a24"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "2f1b509c-6312-3dc2-94bc-eb724dc18693",
+				"_score": 8.441182,
+				"_source": {
+					"webUrl": "http://video.ft.com/5383131535001",
+					"id": "2f1b509c-6312-3dc2-94bc-eb724dc18693"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "45189476-61da-3de3-9efb-b5f26886ec77",
+				"_score": 8.439835,
+				"_source": {
+					"webUrl": "http://video.ft.com/672283905001",
+					"id": "45189476-61da-3de3-9efb-b5f26886ec77"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "9cf4f2dd-84a2-3061-8643-56facd959978",
+				"_score": 8.439109,
+				"_source": {
+					"webUrl": "http://video.ft.com/5184677836001",
+					"id": "9cf4f2dd-84a2-3061-8643-56facd959978"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "5a0fae80-2bb6-3171-9c15-af927d28e4b0",
+				"_score": 8.438076,
+				"_source": {
+					"webUrl": "http://video.ft.com/63147270001",
+					"id": "5a0fae80-2bb6-3171-9c15-af927d28e4b0"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "145eb7e6-17d8-3080-828f-0921f11a6534",
+				"_score": 8.437699,
+				"_source": {
+					"webUrl": "http://video.ft.com/77576619001",
+					"id": "145eb7e6-17d8-3080-828f-0921f11a6534"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "539557ff-3b5d-3260-afbe-41b0dcb1891c",
+				"_score": 8.43698,
+				"_source": {
+					"webUrl": "http://video.ft.com/3260610011001",
+					"id": "539557ff-3b5d-3260-afbe-41b0dcb1891c"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "05398e3b-8c3d-382f-8ef5-057b21177c7b",
+				"_score": 8.436904,
+				"_source": {
+					"webUrl": "http://video.ft.com/4870247504001",
+					"id": "05398e3b-8c3d-382f-8ef5-057b21177c7b"
+				}
+			},
+			{
+				"_index": "v3_api_v2-2016-12-20",
+				"_type": "item",
+				"_id": "8f21d3fd-ccf4-39e9-a359-e844cda82dbe",
+				"_score": 8.435477,
+				"_source": {
+					"webUrl": "http://video.ft.com/4369151725001",
+					"id": "8f21d3fd-ccf4-39e9-a359-e844cda82dbe"
+				}
+			}
+		]
+	}
+}
