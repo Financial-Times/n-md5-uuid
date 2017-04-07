@@ -9,7 +9,7 @@ const hex2byte = {};
 
 // populate lookup tables
 for (let i = 0; i < 256; i++) {
-	var hex = (i + 0x100).toString(16).substr(1);
+	const hex = (i + 0x100).toString(16).substr(1);
 	hex2byte[hex] = i;
 	byte2hex[i] = hex;
 }

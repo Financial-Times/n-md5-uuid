@@ -1,8 +1,13 @@
 {
-  "name": "@financial-times/n-brightcove-to-uuid",
+  "name": "@financial-times/n-brightcove-to-capi",
   "version": "0.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Financial-Times/n-brightcove-to-capi.git"
+  },
   "devDependencies": {
+    "coveralls": "^2.13.0",
     "eslint": "^3.19.0",
     "lintspaces-cli": "^0.6.0",
     "tap": "^10.3.0"
