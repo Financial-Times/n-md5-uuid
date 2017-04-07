@@ -4,13 +4,13 @@ unit-test:
 	tap test/spec.js
 
 unit-test-coverage:
-	tap test/spec.js --coverage
+	tap test/spec.js --coverage --coverage-report=$(if $(CIRCLECI),text-lcov,text)
 
 test:
 	make verify
 
 ifeq ($(CIRCLECI),true)
-	make unit-test-coverage && cat ./coverage/lcov.info | ./node_modules/.bin/coveralls
+	make unit-test-coverage
 else
 	make unit-test
 endif
