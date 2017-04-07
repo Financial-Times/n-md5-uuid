@@ -1,18 +1,15 @@
 {
-  "name": "n-brightcove-to-capi",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/v3",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "async": "^2.1.5",
-    "split": "^1.0.0"
+  "name": "@financial-times/n-brightcove-to-capi",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Financial-Times/n-brightcove-to-capi.git"
   },
   "devDependencies": {
+    "coveralls": "^2.13.0",
+    "eslint": "^3.19.0",
+    "lintspaces-cli": "^0.6.0",
     "tap": "^10.3.0"
   }
 }
