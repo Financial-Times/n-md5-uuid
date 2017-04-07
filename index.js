@@ -34,6 +34,10 @@ function uuid (hashFunc, version, name) {
 }
 
 module.exports = function (value) {
+	if (value === undefined) {
+		throw new TypeError('value must be a string or a number');
+	}
+
 	if (typeof value === 'number') {
 		value = value.toString();
 	}
