@@ -11,9 +11,10 @@ for (let i = 0; i < 256; i++) {
 	byte2hex[i] = hex;
 }
 
-function uuid (hashFunc, version, name) {
+function uuid (hashFunc, version, namespace, name) {
 	const hash = crypto.createHash(hashFunc);
 
+	hash.update(namespace);
 	hash.update(name, 'utf8');
 
 	const buffer = hash.digest();
@@ -39,5 +40,5 @@ module.exports = function (value) {
 		value = value.toString();
 	}
 
-	return uuid('md5', 0x30, value);
+	return uuid('md5', 0x30, '', value);
 };

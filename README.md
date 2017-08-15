@@ -1,6 +1,6 @@
-# n-brightcove-to-uuid [![CircleCI](https://circleci.com/gh/Financial-Times/n-brightcove-to-capi.svg?style=svg)](https://circleci.com/gh/Financial-Times/n-brightcove-to-capi) [![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-brightcove-to-capi/badge.svg?branch=master)](https://coveralls.io/github/Financial-Times/n-brightcove-to-capi?branch=master)
+# n-brightcove-to-capi [![CircleCI](https://circleci.com/gh/Financial-Times/n-brightcove-to-capi.svg?style=svg)](https://circleci.com/gh/Financial-Times/n-brightcove-to-capi) [![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-brightcove-to-capi/badge.svg?branch=master)](https://coveralls.io/github/Financial-Times/n-brightcove-to-capi?branch=master)
 
-Generates a MD5 UUID from a given Brightcove 11 or 13 digit ID.
+Generates a MD5 (V3) UUID with a given name but without a namespace.
 
 ## Installation
 
