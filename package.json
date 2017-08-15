@@ -7,9 +7,15 @@
     "url": "git@github.com:Financial-Times/n-md5-uuid.git"
   },
   "devDependencies": {
+    "@financial-times/n-gage": "^1.8.25",
     "coveralls": "^2.13.0",
     "eslint": "^3.19.0",
     "lintspaces-cli": "^0.6.0",
     "tap": "^10.3.0"
+  },
+  "scripts": {
+    "precommit": "node_modules/.bin/secret-squirrel",
+    "commitmsg": "node_modules/.bin/secret-squirrel-commitmsg",
+    "prepush": "make verify -j3"
   }
 }
