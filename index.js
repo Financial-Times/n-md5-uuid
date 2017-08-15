@@ -32,7 +32,7 @@ function uuid (hashFunc, version, name, namespace) {
 }
 
 module.exports = function (name, namespace = '') {
-	if (value === undefined) {
+	if (name === undefined) {
 		throw new TypeError('value must be a string or a number');
 	}
 
