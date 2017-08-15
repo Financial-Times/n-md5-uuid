@@ -1,10 +1,10 @@
 {
-  "name": "@financial-times/n-brightcove-to-capi",
+  "name": "@financial-times/n-md5-uuid",
   "version": "0.0.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Financial-Times/n-brightcove-to-capi.git"
+    "url": "git@github.com:Financial-Times/n-md5-uuid.git"
   },
   "devDependencies": {
     "coveralls": "^2.13.0",

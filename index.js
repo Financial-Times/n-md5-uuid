@@ -11,7 +11,7 @@ for (let i = 0; i < 256; i++) {
 	byte2hex[i] = hex;
 }
 
-function uuid (hashFunc, version, namespace, name) {
+function uuid (hashFunc, version, name, namespace) {
 	const hash = crypto.createHash(hashFunc);
 
 	hash.update(namespace);
@@ -31,14 +31,14 @@ function uuid (hashFunc, version, namespace, name) {
 		byte2hex[buffer[14]] + byte2hex[buffer[15]];
 }
 
-module.exports = function (value) {
+module.exports = function (name, namespace = '') {
 	if (value === undefined) {
 		throw new TypeError('value must be a string or a number');
 	}
 
-	if (typeof value === 'number') {
-		value = value.toString();
+	if (typeof name === 'number') {
+		name = name.toString();
 	}
 
-	return uuid('md5', 0x30, '', value);
+	return uuid('md5', 0x30, name, namespace);
 };

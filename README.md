@@ -1,6 +1,6 @@
-# n-brightcove-to-capi [![CircleCI](https://circleci.com/gh/Financial-Times/n-brightcove-to-capi.svg?style=svg)](https://circleci.com/gh/Financial-Times/n-brightcove-to-capi) [![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-brightcove-to-capi/badge.svg?branch=master)](https://coveralls.io/github/Financial-Times/n-brightcove-to-capi?branch=master)
+# n-md5-uuid [![CircleCI](https://circleci.com/gh/Financial-Times/n-md5-uuid.svg?style=svg)](https://circleci.com/gh/Financial-Times/n-md5-uuid) [![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-md5-uuid/badge.svg?branch=master)](https://coveralls.io/github/Financial-Times/n-md5-uuid?branch=master)
 
-Generates a MD5 (V3) named UUID with a blank namespace.
+👩‍🚀 Generates a MD5 (version 3) name-based UUID with optional namespace.
 
 ## Use cases
 
@@ -11,13 +11,18 @@ Generates a MD5 (V3) named UUID with a blank namespace.
 
 ```sh
 # install from NPM
-$ npm i -S @financial-times/n-brightcove-to-capi
+$ npm i -S @financial-times/n-md5-uuid
 ```
 
 ## Usage
 
+This module exports a single method which accepts two arguments:
+
+1. A name
+2. An optional namespace
+
 ```js
-const uuid = require('@financial-times/n-brightcove-to-capi');
+const uuid = require('@financial-times/n-md5-uuid');
 
 const brightcove = uuid('834961745001');
 console.log(brightcove); // 564b8be3-0775-3531-b87b-f6da2272f642 ✅
