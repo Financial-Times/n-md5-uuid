@@ -17,5 +17,8 @@
     "precommit": "node_modules/.bin/secret-squirrel",
     "commitmsg": "node_modules/.bin/secret-squirrel-commitmsg",
     "prepush": "make verify -j3"
+  },
+  "engines": {
+    "node": ">=6.0.0"
   }
 }
