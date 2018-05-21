@@ -1,5 +1,6 @@
 {
   "name": "@financial-times/n-md5-uuid",
+  "description": "Generates a MD5 (version 3) name-based UUID with optional namespace.",
   "version": "0.0.0",
   "main": "index.js",
   "repository": {
@@ -7,11 +8,9 @@
     "url": "git@github.com:Financial-Times/n-md5-uuid.git"
   },
   "devDependencies": {
-    "@financial-times/n-gage": "^1.8.25",
-    "coveralls": "^2.13.0",
-    "eslint": "^3.19.0",
-    "lintspaces-cli": "^0.6.0",
-    "tap": "^10.3.0"
+    "@financial-times/n-gage": "^2.0.0",
+    "coveralls": "^3.0.0",
+    "tap": "^12.0.0"
   },
   "scripts": {
     "precommit": "node_modules/.bin/secret-squirrel",

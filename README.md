@@ -1,4 +1,6 @@
-# n-md5-uuid [![CircleCI](https://circleci.com/gh/Financial-Times/n-md5-uuid.svg?style=svg)](https://circleci.com/gh/Financial-Times/n-md5-uuid) [![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-md5-uuid/badge.svg?branch=master)](https://coveralls.io/github/Financial-Times/n-md5-uuid?branch=master)
+# n-md5-uuid
+
+[![CircleCI](https://img.shields.io/circleci/project/github/Financial-Times/n-md5-uuid/master.svg)](https://circleci.com/gh/Financial-Times/n-md5-uuid) ![Coveralls Coverage](https://img.shields.io/coveralls/github/Financial-Times/n-md5-uuid/master.svg) [![NPM version](https://img.shields.io/npm/v/@financial-times/n-md5-uuid.svg)](https://www.npmjs.com/package/@financial-times/n-md5-uuid)
 
 👩‍🚀 Generates a MD5 (version 3) name-based UUID with optional namespace.
 
