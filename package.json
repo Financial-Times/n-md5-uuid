@@ -8,7 +8,7 @@
     "url": "git@github.com:Financial-Times/n-md5-uuid.git"
   },
   "devDependencies": {
-    "@financial-times/n-gage": "^2.0.0",
+    "@financial-times/n-gage": "^3.0.0",
     "coveralls": "^3.0.0",
     "tap": "^12.0.0"
   },
