@@ -10,12 +10,14 @@
   "devDependencies": {
     "@financial-times/n-gage": "^3.6.0",
     "coveralls": "^3.0.0",
+    "snyk": "^1.167.2",
     "tap": "^12.0.0"
   },
   "scripts": {
     "precommit": "node_modules/.bin/secret-squirrel",
     "commitmsg": "node_modules/.bin/secret-squirrel-commitmsg",
-    "prepush": "make verify -j3"
+    "prepush": "make verify -j3",
+    "prepare": "npx snyk protect || npx snyk protect -d || true"
   },
   "engines": {
     "node": ">=6.0.0"
