@@ -8,18 +8,22 @@
     "url": "git@github.com:Financial-Times/n-md5-uuid.git"
   },
   "devDependencies": {
-    "@financial-times/n-gage": "^5.0.0",
+    "@financial-times/n-gage": "^8.3.2",
     "coveralls": "^3.0.0",
     "snyk": "^1.167.2",
     "tap": "^12.0.0"
   },
   "scripts": {
-    "precommit": "node_modules/.bin/secret-squirrel",
-    "commitmsg": "node_modules/.bin/secret-squirrel-commitmsg",
-    "prepush": "make verify -j3",
     "prepare": "npx snyk protect || npx snyk protect -d || true"
   },
   "engines": {
     "node": "12.x"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "node_modules/.bin/secret-squirrel-commitmsg",
+      "pre-commit": "node_modules/.bin/secret-squirrel",
+      "pre-push": "make verify -j3"
+    }
   }
 }
